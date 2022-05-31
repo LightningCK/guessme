@@ -1,31 +1,27 @@
-## Guess me From M.2/13
+# Guess me From M.2/13
 
-เมื่อถึงหน้านี้แล้วแสดงว่ามาถึงขั้นแรกแล้วนะ :)
+**เมื่อถึงหน้านี้แล้วแสดงว่ามาถึงขั้นแรกแล้วนะ :)**
 
-### คำใบ้ :)
+## คำใบ้ :)
 
-# คำใบ้ 1
+### คำใบ้ 1
+ความยาก: ★★☆☆☆
+
 
 ```markdown
 .---- .-.-.- / .-- . .- .-. .. -. --. / --. .-.. .- ... ... . ...
 ```
 
-# คำใบ้อีกนิด: รหัสมอร์สไปแปลได้ในเว็บ https://morsecode.world/international/translator.html
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## คำใบ้อีกนิด: รหัสมอร์สไปแปลได้ในเว็บด้านล่างนี้เลยนะ
+### [https://morsecode.world/international/translator.html](https://morsecode.world/international/translator.html)
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### EXE
+### คำใบ้ 2
+ความยาก: ★★★★☆
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LightningCK/lnck.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ลิ้งค์: [HintForYou คลิกลิ้งค์ได้เลย!](https://lightningck.github.io/hintforyou/)
 
-### Support or Contact
-
-Having trouble with Pages? gg Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## คำใบ้อีกนิด: ช่องโทเคนเฉลยคือ codename ช่องรหัสผ่านเฉลยคือ ?3?0 (รหัสผ่านผิดจะเด้งกลับมาหน้านี้)
+## (? คือให้ไปหามาโดยมี 3 ตัวเลขให้เลือกซ้ำไม่ได้ นั่นคือ 7,1,5 เช่น 5310)
